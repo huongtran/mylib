@@ -22,7 +22,7 @@ public class BaseActivity extends Activity {
 
     public InterstitialAd mInterstitial;
 
-    public void loadInterads() {
+    public void loadInterAds() {
         String adsId = Utils.getStringResourceByName(this, "ads_app_inter");
         mInterstitial = new InterstitialAd(this);
         mInterstitial.setAdUnitId(adsId);
@@ -32,7 +32,7 @@ public class BaseActivity extends Activity {
     public void showInterAds() {
         if (mInterstitial != null && mInterstitial.isLoaded()) {
             mInterstitial.show();
-            loadInterads();
+            loadInterAds();
         }
     }
 

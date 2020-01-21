@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--0.debug app-->
+    <string name="debug_ads_app_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="debug_ads_app_home">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="debug_ads_app_inter">ca-app-pub-3940256099942544/1033173712</string>
+
     <!-- 1.sublime app-->
     <string name="sublime_ads_app_id">ca-app-pub-8147305324909118~5036659281</string>
     <string name="sublime_ads_app_home">ca-app-pub-8147305324909118/7471250935</string>

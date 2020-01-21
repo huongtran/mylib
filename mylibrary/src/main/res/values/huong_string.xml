@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 1.sublime app-->
+    <string name="sublime_ads_app_id"></string>
+    <string name="sublime_ads_app_home"></string>
+    <string name="sublime_ads_app_inter"></string>
+    <string name="sublime_base_64"></string>
+
+    <!-- 2.logcat app-->
+    <string name="logcat_ads_app_id"></string>
+    <string name="logcat_ads_app_home"></string>
+    <string name="logcat_ads_app_inter"></string>
+    <string name="logcat_base_64"></string>
+
+    <!-- 3.mindmap app-->
+    <string name="mindmap_ads_app_id"></string>
+    <string name="mindmap_ads_app_home"></string>
+    <string name="mindmap_ads_app_inter"></string>
+    <string name="mindmap_base_64"></string>
+
+    <!-- 4.ssh app-->
+    <string name="ssh_ads_app_id"></string>
+    <string name="ssh_ads_app_home"></string>
+    <string name="ssh_ads_app_inter"></string>
+    <string name="ssh_base_64"></string>
+
+    <!-- 5.terminal app-->
+    <string name="terminal_ads_app_id"></string>
+    <string name="terminal_ads_app_home"></string>
+    <string name="terminal_ads_app_inter"></string>
+    <string name="terminal_base_64"></string>
+
+</resources>

@@ -5,8 +5,8 @@ import android.app.Activity;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
-import com.hservice.mylibrary.R;
 import com.hservice.mylibrary.application.MyApp;
+import com.hservice.mylibrary.utils.android.utils.Utils;
 
 public class BaseActivity extends Activity {
 
@@ -23,9 +23,9 @@ public class BaseActivity extends Activity {
     public InterstitialAd mInterstitial;
 
     public void loadInterads() {
+        String adsId = Utils.getStringResourceByName(this, "ads_app_inter");
         mInterstitial = new InterstitialAd(this);
-        mInterstitial.setAdUnitId(getResources().getString(R.string.ads_app_inter));
-
+        mInterstitial.setAdUnitId(adsId);
         mInterstitial.loadAd(new AdRequest.Builder().addTestDevice(MyApp.getDeviceID(this)).build());
     }
 

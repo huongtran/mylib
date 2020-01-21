@@ -29,6 +29,12 @@ import java.net.URLConnection;
 
 public class Utils {
 
+    public static String getStringResourceByName(Context context, String aString) {
+        String packageName = context.getPackageName();
+        int resId = context.getResources().getIdentifier(aString, "string", packageName);
+        return context.getString(resId);
+    }
+
     /**
      * This method converts dp unit to equivalent pixels, depending on device density.
      *

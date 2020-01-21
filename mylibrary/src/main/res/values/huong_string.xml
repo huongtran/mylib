@@ -1,33 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- 1.sublime app-->
-    <string name="sublime_ads_app_id"></string>
-    <string name="sublime_ads_app_home"></string>
-    <string name="sublime_ads_app_inter"></string>
-    <string name="sublime_base_64"></string>
+    <string name="sublime_ads_app_id">ca-app-pub-8147305324909118~5036659281</string>
+    <string name="sublime_ads_app_home">ca-app-pub-8147305324909118/7471250935</string>
+    <string name="sublime_ads_app_inter">ca-app-pub-8147305324909118/2218924254</string>
+    <string name="sublime_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi0p/PbMj/hUiMxbipfls/425AzLk5QYCeww20ehIP9vW+1pIn+JiJRQ/QWMAlfGftFcbFxXX/QFhB/VWd/K9EZJ/T8Wdht8qGzRQFyIKQQyWuoLKy+CisIiwhkdGLq4m302zTherApvotKi0LZRGlTzxXyPb3wLEN7uYORe3xGdr+13XxuIATczCtdSpoufgZJ/eXLt9//zbjNMA4KBtez51KeAVSLPj+RcwoWJYSNzxpGqbwe7gP9+NcLbrWCcBWgbcHTwcHMT6CBWjDO6wMCHKIGnuBL0B0LNOkpnzrBtHLBjm6fmufEIxQSrLJVYnO0TF3fdUQDLiTS9QLfvZhwIDAQAB</string>
 
     <!-- 2.logcat app-->
-    <string name="logcat_ads_app_id"></string>
-    <string name="logcat_ads_app_home"></string>
-    <string name="logcat_ads_app_inter"></string>
-    <string name="logcat_base_64"></string>
+    <string name="logcat_ads_app_id">ca-app-pub-8147305324909118~8087162753</string>
+    <string name="logcat_ads_app_home">ca-app-pub-8147305324909118/1871633411</string>
+    <string name="logcat_ads_app_inter">ca-app-pub-8147305324909118/1521754409</string>
+    <string name="logcat_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApjMjB3jUJVXlVMgbS+t+8pD+c3lgTyPyh0vDXsjP46j2XDnjzj9XsWCjpXquLv6+NzwFrTWHpmTZB/ZiEreje1SfgdkkH7besl7SO2ki5c7YZ5bGbKNp7gTX55xCcXtrBvqVY9PRGszieGFMTP4wPy46K5xkPb1Jx9nsplN46/QH4IFgQssX1hh9GusQCrdlZolmUuYT3J143N5DXJbwa7O6WM2Be47x7qRhISRkHxywXwbpj3Uqz18Wj68r5vkUSq1Ik3z2t4W1GhDIwvm1Pcob0xdMrn2jbjSJY76PdVrHkYRWxl8U3++OhYbI1BLCRaUgveSjXhSFPSzNfWr3tQIDAQAB</string>
 
     <!-- 3.mindmap app-->
-    <string name="mindmap_ads_app_id"></string>
-    <string name="mindmap_ads_app_home"></string>
-    <string name="mindmap_ads_app_inter"></string>
+    <string name="mindmap_ads_app_id">ca-app-pub-8147305324909118~3715321839</string>
+    <string name="mindmap_ads_app_home">ca-app-pub-8147305324909118/8776076828</string>
+    <string name="mindmap_ads_app_inter">ca-app-pub-8147305324909118/3523750142</string>
     <string name="mindmap_base_64"></string>
 
     <!-- 4.ssh app-->
-    <string name="ssh_ads_app_id"></string>
-    <string name="ssh_ads_app_home"></string>
-    <string name="ssh_ads_app_inter"></string>
-    <string name="ssh_base_64"></string>
+    <string name="ssh_ads_app_id">ca-app-pub-8147305324909118~1138611025</string>
+    <string name="ssh_ads_app_home">ca-app-pub-8147305324909118/2260121002</string>
+    <string name="ssh_ads_app_inter">ca-app-pub-8147305324909118/6007794329</string>
+    <string name="ssh_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArjgwuENfOFvvTeZ9opo0k+aipMyejINbJgC/CeOnsH3a57QWdAFFMzRNvAlInIYjEAAlF1dJVMyMQ5o2jKNVUgffX69LVNUdzPh8Al4E5L7pJPIEUoLDRCqdLjf0HvLjSqr8ieJmCHx0Wioh3lW/db2rX3U3TZDwWOdpX9k8f6XKWtporPn5gNRI54IJm38xN0Ers38bnZtF7EYEPRHqP8IcQCdQJ8+D92c3fhv1qcjbC9Om+EJXluaGZ+8ik26wCXxUdcKz04O612KiazZaF+VdXhDpyL58h7wzn001ggqKOn75IiikdKS/VcCaCBet3J5q56loIvEH5WWVv+9MNQIDAQAB</string>
 
     <!-- 5.terminal app-->
-    <string name="terminal_ads_app_id"></string>
-    <string name="terminal_ads_app_home"></string>
-    <string name="terminal_ads_app_inter"></string>
-    <string name="terminal_base_64"></string>
+    <string name="terminal_ads_app_id">ca-app-pub-8147305324909118~2401637528</string>
+    <string name="terminal_ads_app_home">ca-app-pub-8147305324909118/7462392519</string>
+    <string name="terminal_ads_app_inter">ca-app-pub-8147305324909118/5236163355</string>
+    <string name="terminal_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhS1q2ZE/MB2HTIHcF+Wa101TouACZM5oqmnjlsWcfYQHHHx4Xl+BasCkZ41DTaCIbnf0cf84epOatpjcwMBTq3FQw9vk9+mXR/F0DdTNnGreA59Z6IJqy37lW9aEaP7YTnHytSxleJgUIL1hRybGPm91ChIWe8VWuTB6KnBm3jBM0j/Cm9Ct9DsxYmy2+HPZxxvHkPBTol7jC7Adv2sqNTda8FEhMgqc/FUTEMj+/NTHNVCrxJNLyNPiM4yJQzuuzbGukLiSjrHv92QkaynLEireRLVTRJFogo5NiUSDMwZjgiDk3/nRRPCbg2ktDrq0aoMv1bT8xqV/mTOZF5ku8QIDAQAB</string>
+
+    <!-- 6.rar-->
+    <string name="rar_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmT6uEAnw/djC1VifOcglXRW5UwD4OpPW3bsl1m3IP+TuJqYyxpZ2MdNsxxiikrVwVs9y8fkaHShpimmklK3mF5w/G+ZyDZuMPz4uVu5qSSGfkSoB0NYCbV98OnwCrA4Oo27loCuKABgq9EwF+WZvyc0s4K/GDk74rbietEHPfGMHBJHuj9B3ovVQzVA7saH/zcShf7Yd4IYePT/+DW8FNtNJxHQO6RPN1LsJThsCmYRjDd+2Y4DvobxYSKHjGjwApJ5NG0VO+APIEaStL6Sh0DxjU4vW2yNML/a8tg7xzftnAZYtp1aBIOsgmBYle9EJRLQLSK+wdKZMuZAjcIIBNwIDAQAB</string>
+    <string name="rar_ads_app_id">ca-app-pub-8147305324909118~7418176390</string>
+    <string name="rar_ads_app_home">ca-app-pub-8147305324909118/4604951425</string>
+    <string name="rar_ads_app_inter">ca-app-pub-8147305324909118/1978788087</string>
+
+    <!-- 7.chess-->
+    <string name="chess_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv1vt2QHQLbv9MHrgIsmNFlphX68Ss5jIoMtPprBB1BTKD1sSVC//Cu8QwINJNn65fIece1LyE+VWgdEcTOPVNiaF+2aKX+1ku0sEfYmhe2so6yHGG4A9Ye1CBcjgpoS0b2s3AJlUW5pnNvwH5Tg2oHeQjLjzyVpKjGy2C454YeVDo+BQvReHTdqjN/8lyL9mzNuV4bR3/hbl1LcV75maRrtnYfD+6nHKv2av5NQ9+3SDK/4hLux04mkCdWCtCGaHeWLXQzsoN+O8S5JTbrR/Plm2C//R6cD4ltGEzQDfIrjbHknG8x1QAkEhlMZY9W20kK5n50LK8aRWvJKzmexdVwIDAQAB</string>
+    <string name="chess_ads_app_id">ca-app-pub-8147305324909118~4221808047</string>
+    <string name="chess_ads_app_home">ca-app-pub-8147305324909118/6656399697</string>
+    <string name="chess_ads_app_inter">ca-app-pub-8147305324909118/4030236359</string>
 
 </resources>

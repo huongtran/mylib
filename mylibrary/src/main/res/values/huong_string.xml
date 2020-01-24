@@ -48,55 +48,55 @@
     <string name="chess_ads_app_inter">ca-app-pub-8147305324909118/4030236359</string>
 
     <!-- 8.apk-->
-    <string name="apk_base_64"></string>
+    <string name="apk_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqO3DH1hhF9whUYcChhJ8ejlI5aoJlLrK8Fp7RHIl1D8LQn2bIx8ifCLRktYJkSNaA2ClFYnAu2TQ8FmorIzhipH57McseZ9X0YrXZgxkd4L3V7VA2+znEWyRs+Mf11U4AAoy+bhVN0BFsapTmqx+xdIEv6NyzreV7meedFxisWriONzJW8iL4O2jPFqHFuTwRgrYtcuSMzoKLoFqYnPYhfGjk8tGqgwDZr2HSGS4eUj1C7zBk7UEogzjBdNbMgBjs8MJZVaFwz3G7FWgCzBiDZnZmQtoKdbWPYIAfP5vC8pxM4RkNmcgqQYq4z8RvivbOD2wWA9w17kJpwH7xEKaIQIDAQAB</string>
     <string name="apk_ads_app_id">ca-app-pub-8147305324909118~4062698396</string>
     <string name="apk_ads_app_home">ca-app-pub-8147305324909118/8108635057</string>
     <string name="apk_ads_app_inter">ca-app-pub-8147305324909118/8104765627</string>
 
     <!-- 9.chinese_chess-->
-    <string name="chinese_chess_base_64"></string>
+    <string name="chinese_chess_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwdbSBYlXnsKq7uCEPQeAzyGahjNsD/gs5yNcTV3DzN0n8dj9dKmHVZe68e5Mkt0bhrQbb/aLKkcqPOAh75+QxdmJUFovRMxH1Vks+AiONTtA2HUfgn9pX6DLJ2JasGLqgfgjVO2gOReWNcN7iw36ai5rtO7ttyAAbMJqoFfvMUxFFUE1zpNv0MGhveVejQQCW5haRKVc4w3QzVAyDmW3ym759HdTjSviKoQ3OFzhaGs4ldHe6929wXaVZYvjB/ECn7QO6o/4SKXd1ZTPKpW30/vI3JlOo3NqNY7rbvmLUJtw4HDOM+vR0ecUIi0kk4eSEtQ1p/G0U9LCyuUjvqvTjQIDAQAB</string>
     <string name="chinese_chess_ads_app_id">ca-app-pub-8147305324909118~2852438943</string>
     <string name="chinese_chess_ads_app_home">ca-app-pub-8147305324909118/3977818355</string>
     <string name="chinese_chess_ads_app_inter">ca-app-pub-8147305324909118/2664736686</string>
 
     <!-- 10.coin_base-->
-    <string name="coin_base_base_64"></string>
+    <string name="coin_base_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNasOxdbcfWk9Ke6AZn+iRheF90K+Re/2IysUOpcqBlw1l7ey+woojK68/v+4tIKB1Y3owKzI41quT2BHYuZNg6H8kuSUI1a9v7II/6Zt3oP+L568HEJBbxO6cvENzxcGNQg5+5CCDaoGVQTG+e5dxF8f/xYlI85asz9D5KlI2Dqu4DfxgYQrilxMcRGhqPL7jRNtvtY0msBXOtuL0SOL3HjaLInM3U2by5o74RueFMMf4G7brBvgfQwaLx6TAsbl+cbLlPG2gjFvMltqQf1b/RZochBGpAejJJkgcN0ClhChTHhrndQgDaZXWIyTkO9Wr3RfYp+1z+yKw1BXg+HXQIDAQAB</string>
     <string name="coin_base_ads_app_id">ca-app-pub-8147305324909118~2660867257</string>
     <string name="coin_base_ads_app_home">ca-app-pub-8147305324909118/9034703917</string>
     <string name="coin_base_ads_app_inter">ca-app-pub-8147305324909118/7721622246</string>
 
     <!-- 11.vpn-->
-    <string name="vpn_base_64"></string>
+    <string name="vpn_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApIkSHH1C5/jTHOopxZBx3XvFDnWLimVJ2fvZqVTMFMRliZJ5YqE3HYu/YLMQkbUCdeBEYQPaKIOWj7/hmShhfrd0U9M+5OY5m9YpdKRgIkSD0OqhrmRSw0Unrpj9VH0mdid1bGS1Fo0PRnikuKv6Ce/mhJvZBXmXMzhgAhAXCEz3fC0TOarS6Okn22PpvfTJZug1i0pW2qn6i3q9wcl3QbfmLjZDKfAx2lPZvu/EtBAIfeKjraC8cvsLljs4c3y+AgVJLMobo6oM6A0REKdUWLo+KukkHh3dZAydsMeQ2NVaOCMm8Dt5Gv/UqkgLe0hUlIbeeul6myEKGqyoM9z+twIDAQAB</string>
     <string name="vpn_ads_app_id">ca-app-pub-8147305324909118~1156213897</string>
     <string name="vpn_ads_app_home">ca-app-pub-8147305324909118/3590805549</string>
     <string name="vpn_ads_app_inter">ca-app-pub-8147305324909118/4907756640</string>
 
     <!-- 12.ringtone-->
-    <string name="ringtone_base_64"></string>
+    <string name="ringtone_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhZdWxVV6UBUVVJ4oXBFQwCg+xoylOowtZe47sgBZMHVaYBo0mcICYPU1/FNl36nlgakQ6lHOSLln8ojHMdBl43vwz/HCaIqbNxT+w30Jmyc1qCrFYp+9ypUz+NraZtJ5cilqJOpw7KWVPKOp4xjQdOiTsLiLnYznmv+bJFZ7LQnXtUS4/LnRBjLK19pm+wsORIQ13Nt9ZSIFbP8vHtJmgcROGMRfRR6x48tDsJY+lZuHw4UlCofzcNyCx56+uosD/rGmhOONfwyt0Ydx36sB5BRmf8CYYuzV7tT6jRXQZ0l9LxU4qRmCb6Xor1iln/AAzVs6F+WRfDw8GaJ6/YyBowIDAQAB</string>
     <string name="ringtone_ads_app_id">ca-app-pub-8147305324909118~5833825501</string>
     <string name="ringtone_ads_app_home">ca-app-pub-8147305324909118/8268417155</string>
     <string name="ringtone_ads_app_inter">ca-app-pub-8147305324909118/6955335486</string>
 
     <!-- 13.solitaire-->
-    <string name="solitaire_base_64"></string>
+    <string name="solitaire_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwlM4twIKy7/K6eUKRguv4KkdIjY/zfZOrgr/5epmY4FNln3xtORj86gtMJ3J/h8byiL0tbiYXegqbdgWgEJMxaq2uijgNw8QS9zw8pY2qWTA87I4xM56If/lLdjQPSl6aogL2a7mPwPLl/DfhfwQcauIE3QugnQgNc/JV4zlBpFptzUIrGPcY+LJRqWHY+LuqhugXV+fdvG3V5EprQ3i+jVRSr4DPAQhffEThQAz5XS6bgf2bRs92s6E8GWl4RMZ7sY6BgboyJMHpXtwqs4V+87t5y/dwVxu2saodmBWOVNaObNolbseDMdzTbeiYdG8hMyBJrr2F+oV9DmUzWUbMwIDAQAB</string>
     <string name="solitaire_ads_app_id">ca-app-pub-8147305324909118~8272286583</string>
     <string name="solitaire_ads_app_home">ca-app-pub-8147305324909118/5646123242</string>
     <string name="solitaire_ads_app_inter">ca-app-pub-8147305324909118/3019959908</string>
 
     <!-- 14.sudoku-->
-    <string name="sudoku_base_64"></string>
+    <string name="sudoku_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsc5rasOtFJlQrwro4g+6INdZU1CFd9iuBkszsFjcJli0nBnsAVs42YZlK4yavHDv2ehhulKwuThZLcFPs8L7PUtHubDyjm7kxm+2d9vNFXo9LJ4aDC8a4ye6bAZq161cOw4WhY7zfW23H1HN1kR299vgEI+bUy2Ezmgod67GIkVEU0K7szVNMYiaGr8yNlGm1UUs9HYTAnt/kiaHFDBUFe/QfCBmFelPnKTO44sQic3bVKEgRC3m9pxRLMWT8fqi6JAPqAjHpeR0gkZ9skdxCM3dC9jlJKs3y0tIogt7gNV0VTOVY1cPHyGcayOJ71ApwKooK+jihIjUHSsBsT3k/wIDAQAB</string>
     <string name="sudoku_ads_app_id">ca-app-pub-8147305324909118~2824518782</string>
     <string name="sudoku_ads_app_home">ca-app-pub-8147305324909118/2565783892</string>
     <string name="sudoku_ads_app_inter">ca-app-pub-8147305324909118/1252702229</string>
 
     <!-- 15.torrent-->
-    <string name="torrent_base_64"></string>
+    <string name="torrent_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn66utkuFL4QcwLbbo7RQlWI55HESTN9XmAKksfdVMWwSJSPY++mzjkObow6B3qk1FJzxrEPuN4ZLtshmlAhUVCchkJ3e1XnUp14zgDbiO7JBA5ly7w48Oaa1dIByUmhIJZnUcz7MxQiZItLV8tDRcPgPxOgfzSn1oE/y618XQNMEsg07D7STiNnnLkfO9Vhik3dZx9aN1SIUb/0xxwkCk5pSXiA9/1HHTGhNN5Pw2HDU7evu3r4ELiO2/skHDFYbp2yPtLZvYQ0zi5LIFYFETZC8jO4/TG3mf/+yDQLNVmRrTlBCe7GmSjewtStZtBxCj4D653WIZSl2ylR/UhYPuQIDAQAB</string>
     <string name="torrent_ads_app_id">ca-app-pub-8147305324909118~3754457076</string>
     <string name="torrent_ads_app_home">ca-app-pub-8147305324909118/7889143204</string>
     <string name="torrent_ads_app_inter">ca-app-pub-8147305324909118/5262979860</string>
 
     <!-- 16.unit_convert-->
-    <string name="unit_convert_base_64"></string>
+    <string name="unit_convert_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlDcX3o/D86sQS0LlAjNbordpvgT62x3MGdmSnK9f2YmN6JrDjaRjWoaJKGLo4eNUs2KMIWymP2fQ+7TjT0ER/SInv/JwCZpwotLvNJYPmx5QYZzc3STmeD3KFIv1myCNaTXhTbzxzVKRGyyEzJtjjHeY9DP85CUxMHaDhl5ZDCahchTfpUfbvlAb2c4ZkBE67MTm86ASqUS9Ra18Jc0DrfgGfuVctle0ZKubwx0BoOlUETw5KdRhb5zCV/TwPBapR56ps5qui5xtmCQLXeOfUwOwyZ3XIdF+n1x9mX+mzG988Rm5lVw/+frp0OVyrvdGggU8097NtKYtrjExfD4tlQIDAQAB</string>
     <string name="unit_convert_ads_app_id">ca-app-pub-8147305324909118~9936722041</string>
     <string name="unit_convert_ads_app_home">ca-app-pub-8147305324909118/7697571517</string>
     <string name="unit_convert_ads_app_inter">ca-app-pub-8147305324909118/5997477038</string>

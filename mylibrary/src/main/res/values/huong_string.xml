@@ -47,4 +47,58 @@
     <string name="chess_ads_app_home">ca-app-pub-8147305324909118/6656399697</string>
     <string name="chess_ads_app_inter">ca-app-pub-8147305324909118/4030236359</string>
 
+    <!-- 8.apk-->
+    <string name="apk_base_64"></string>
+    <string name="apk_ads_app_id">ca-app-pub-8147305324909118~4062698396</string>
+    <string name="apk_ads_app_home">ca-app-pub-8147305324909118/8108635057</string>
+    <string name="apk_ads_app_inter">ca-app-pub-8147305324909118/8104765627</string>
+
+    <!-- 9.chinese_chess-->
+    <string name="chinese_chess_base_64"></string>
+    <string name="chinese_chess_ads_app_id">ca-app-pub-8147305324909118~2852438943</string>
+    <string name="chinese_chess_ads_app_home">ca-app-pub-8147305324909118/3977818355</string>
+    <string name="chinese_chess_ads_app_inter">ca-app-pub-8147305324909118/2664736686</string>
+
+    <!-- 10.coin_base-->
+    <string name="coin_base_base_64"></string>
+    <string name="coin_base_ads_app_id">ca-app-pub-8147305324909118~2660867257</string>
+    <string name="coin_base_ads_app_home">ca-app-pub-8147305324909118/9034703917</string>
+    <string name="coin_base_ads_app_inter">ca-app-pub-8147305324909118/7721622246</string>
+
+    <!-- 11.vpn-->
+    <string name="vpn_base_64"></string>
+    <string name="vpn_ads_app_id">ca-app-pub-8147305324909118~1156213897</string>
+    <string name="vpn_ads_app_home">ca-app-pub-8147305324909118/3590805549</string>
+    <string name="vpn_ads_app_inter">ca-app-pub-8147305324909118/4907756640</string>
+
+    <!-- 12.ringtone-->
+    <string name="ringtone_base_64"></string>
+    <string name="ringtone_ads_app_id">ca-app-pub-8147305324909118~5833825501</string>
+    <string name="ringtone_ads_app_home">ca-app-pub-8147305324909118/8268417155</string>
+    <string name="ringtone_ads_app_inter">ca-app-pub-8147305324909118/6955335486</string>
+
+    <!-- 13.solitaire-->
+    <string name="solitaire_base_64"></string>
+    <string name="solitaire_ads_app_id">ca-app-pub-8147305324909118~8272286583</string>
+    <string name="solitaire_ads_app_home">ca-app-pub-8147305324909118/5646123242</string>
+    <string name="solitaire_ads_app_inter">ca-app-pub-8147305324909118/3019959908</string>
+
+    <!-- 14.sudoku-->
+    <string name="sudoku_base_64"></string>
+    <string name="sudoku_ads_app_id">ca-app-pub-8147305324909118~2824518782</string>
+    <string name="sudoku_ads_app_home">ca-app-pub-8147305324909118/2565783892</string>
+    <string name="sudoku_ads_app_inter">ca-app-pub-8147305324909118/1252702229</string>
+
+    <!-- 15.torrent-->
+    <string name="torrent_base_64"></string>
+    <string name="torrent_ads_app_id">ca-app-pub-8147305324909118~3754457076</string>
+    <string name="torrent_ads_app_home">ca-app-pub-8147305324909118/7889143204</string>
+    <string name="torrent_ads_app_inter">ca-app-pub-8147305324909118/5262979860</string>
+
+    <!-- 16.unit_convert-->
+    <string name="unit_convert_base_64"></string>
+    <string name="unit_convert_ads_app_id">ca-app-pub-8147305324909118~9936722041</string>
+    <string name="unit_convert_ads_app_home">ca-app-pub-8147305324909118/7697571517</string>
+    <string name="unit_convert_ads_app_inter">ca-app-pub-8147305324909118/5997477038</string>
+
 </resources>

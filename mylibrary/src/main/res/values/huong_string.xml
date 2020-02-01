@@ -20,6 +20,8 @@
     <!-- 3.mindmap app-->
     <string name="mindmap_ads_app_id">ca-app-pub-8147305324909118~3715321839</string>
     <string name="mindmap_ads_app_home">ca-app-pub-8147305324909118/8776076828</string>
+    <string name="mindmap_ads_app_home1">ca-app-pub-8147305324909118/8776076828</string>
+    <string name="mindmap_ads_app_home2">ca-app-pub-8147305324909118/8776076828</string>
     <string name="mindmap_ads_app_inter">ca-app-pub-8147305324909118/3523750142</string>
     <string name="mindmap_base_64"></string>
 

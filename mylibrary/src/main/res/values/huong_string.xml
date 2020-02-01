@@ -41,6 +41,8 @@
     <string name="rar_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmT6uEAnw/djC1VifOcglXRW5UwD4OpPW3bsl1m3IP+TuJqYyxpZ2MdNsxxiikrVwVs9y8fkaHShpimmklK3mF5w/G+ZyDZuMPz4uVu5qSSGfkSoB0NYCbV98OnwCrA4Oo27loCuKABgq9EwF+WZvyc0s4K/GDk74rbietEHPfGMHBJHuj9B3ovVQzVA7saH/zcShf7Yd4IYePT/+DW8FNtNJxHQO6RPN1LsJThsCmYRjDd+2Y4DvobxYSKHjGjwApJ5NG0VO+APIEaStL6Sh0DxjU4vW2yNML/a8tg7xzftnAZYtp1aBIOsgmBYle9EJRLQLSK+wdKZMuZAjcIIBNwIDAQAB</string>
     <string name="rar_ads_app_id">ca-app-pub-8147305324909118~7418176390</string>
     <string name="rar_ads_app_home">ca-app-pub-8147305324909118/4604951425</string>
+    <string name="rar_ads_app_home1">ca-app-pub-8147305324909118/4604951425</string>
+    <string name="rar_ads_app_home2">ca-app-pub-8147305324909118/4604951425</string>
     <string name="rar_ads_app_inter">ca-app-pub-8147305324909118/1978788087</string>
 
     <!-- 7.chess-->

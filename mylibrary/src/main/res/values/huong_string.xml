@@ -28,6 +28,8 @@
     <!-- 4.ssh app-->
     <string name="ssh_ads_app_id">ca-app-pub-8147305324909118~1138611025</string>
     <string name="ssh_ads_app_home">ca-app-pub-8147305324909118/2260121002</string>
+    <string name="ssh_ads_app_home1">ca-app-pub-8147305324909118/2260121002</string>
+    <string name="ssh_ads_app_home2">ca-app-pub-8147305324909118/2260121002</string>
     <string name="ssh_ads_app_inter">ca-app-pub-8147305324909118/6007794329</string>
     <string name="ssh_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArjgwuENfOFvvTeZ9opo0k+aipMyejINbJgC/CeOnsH3a57QWdAFFMzRNvAlInIYjEAAlF1dJVMyMQ5o2jKNVUgffX69LVNUdzPh8Al4E5L7pJPIEUoLDRCqdLjf0HvLjSqr8ieJmCHx0Wioh3lW/db2rX3U3TZDwWOdpX9k8f6XKWtporPn5gNRI54IJm38xN0Ers38bnZtF7EYEPRHqP8IcQCdQJ8+D92c3fhv1qcjbC9Om+EJXluaGZ+8ik26wCXxUdcKz04O612KiazZaF+VdXhDpyL58h7wzn001ggqKOn75IiikdKS/VcCaCBet3J5q56loIvEH5WWVv+9MNQIDAQAB</string>
 

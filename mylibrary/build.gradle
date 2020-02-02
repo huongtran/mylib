@@ -28,6 +28,6 @@ dependencies {
     // acra log
     implementation 'ch.acra:acra:4.9.2'
     // gson
-    implementation 'com.google.code.gson:gson:1.7.2'
+    implementation 'com.google.code.gson:gson:2.2.4'
 
 }

@@ -63,6 +63,7 @@
     <string name="chinese_chess_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwdbSBYlXnsKq7uCEPQeAzyGahjNsD/gs5yNcTV3DzN0n8dj9dKmHVZe68e5Mkt0bhrQbb/aLKkcqPOAh75+QxdmJUFovRMxH1Vks+AiONTtA2HUfgn9pX6DLJ2JasGLqgfgjVO2gOReWNcN7iw36ai5rtO7ttyAAbMJqoFfvMUxFFUE1zpNv0MGhveVejQQCW5haRKVc4w3QzVAyDmW3ym759HdTjSviKoQ3OFzhaGs4ldHe6929wXaVZYvjB/ECn7QO6o/4SKXd1ZTPKpW30/vI3JlOo3NqNY7rbvmLUJtw4HDOM+vR0ecUIi0kk4eSEtQ1p/G0U9LCyuUjvqvTjQIDAQAB</string>
     <string name="chinese_chess_ads_app_id">ca-app-pub-8147305324909118~2852438943</string>
     <string name="chinese_chess_ads_app_home">ca-app-pub-8147305324909118/3977818355</string>
+    <string name="chinese_chess_ads_app_home1">ca-app-pub-8147305324909118/3977818355</string>
     <string name="chinese_chess_ads_app_inter">ca-app-pub-8147305324909118/2664736686</string>
 
     <!-- 10.coin_base-->

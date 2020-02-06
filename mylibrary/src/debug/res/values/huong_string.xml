@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ads_app_id">@string/debug_ads_app_id</string>
+    <string name="ad_unit_home">@string/debug_ads_app_home</string>
+    <string name="ad_unit_home1">@string/debug_ads_app_home</string>
+    <string name="ad_unit_home2">@string/debug_ads_app_home</string>
+    <string name="ad_unit_home3">@string/debug_ads_app_home</string>
+    <string name="ad_unit_home4">@string/debug_ads_app_home</string>
+    <string name="ad_unit_home5">@string/debug_ads_app_home</string>
+    <string name="ad_unit_home6">@string/debug_ads_app_home</string>
+    <string name="ad_unit_inter">@string/debug_ads_app_inter</string>
+</resources>

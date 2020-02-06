@@ -109,4 +109,10 @@
     <string name="unit_convert_ads_app_home"></string>
     <string name="unit_convert_ads_app_inter"></string>
 
+    <!-- 17.nhk_easy-->
+    <string name="nhk_easy_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2taUd2ChacepPMqHmRhHy4l+nyMneqi65+IHNCe3gc/WoS4mN+x0xKTHaPtrSeIhoxYHlfzE3gKsu3nuPIGGj7hYMhP9rT4mPM99kz1UkLyVcsWsRrIO+yYc+FSSLeFDs+Eezv0zDzEkxoQ0TkuuCDg4pVysPmKA72UnxBV5+FIARTUAfB7TMfqjkt6GAvASpksBq6qJasIEGF99k3it+nt4FlC2NvHEmfH5iXP8+MzUi/bkL+ZTy7EcA/2RFvlhbYI36BQbG+XgzO7wvSALMRIf/EvAAAbxo0qPdSYtZMymxoED6S4UWu7n9q/XVtSkoq9dxPn9xIZUZf27aE0BswIDAQAB</string>
+    <string name="nhk_easy_ads_app_id">ca-app-pub-2749488305004737~9715501826</string>
+    <string name="nhk_easy_ads_app_home">ca-app-pub-2749488305004737/7089338484</string>
+    <string name="nhk_easy_ads_app_inter">ca-app-pub-2749488305004737/5776256817</string>
+
 </resources>

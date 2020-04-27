@@ -65,6 +65,8 @@
     <string name="chinese_chess_ads_app_id">ca-app-pub-2749488305004737~5370290067</string>
     <string name="chinese_chess_ads_app_home">ca-app-pub-2749488305004737/7804881719</string>
     <string name="chinese_chess_ads_app_home1">ca-app-pub-2749488305004737/8926391691</string>
+    <string name="chinese_chess_ads_app_puzzle">ca-app-pub-2749488305004737/3387154741</string>
+    <string name="chinese_chess_ads_app_create_puzzle">ca-app-pub-2749488305004737/4700236412</string>
     <string name="chinese_chess_ads_app_inter">ca-app-pub-2749488305004737/4987146681</string>
 
     <!-- 10.coin_base-->

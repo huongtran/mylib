@@ -6,9 +6,9 @@
     <string name="debug_ads_app_inter">ca-app-pub-3940256099942544/1033173712</string>
 
     <!-- 1.sublime app-->
-    <string name="sublime_ads_app_id">ca-app-pub-2749488305004737~5429999813</string>
-    <string name="sublime_ads_app_home">ca-app-pub-2749488305004737/6975491444</string>
-    <string name="sublime_ads_app_inter">ca-app-pub-2749488305004737/5662409772</string>
+    <string name="sublime_ads_app_id">ca-app-pub-8147305324909118~1465644891</string>
+    <string name="sublime_ads_app_home">ca-app-pub-8147305324909118/7839481556</string>
+    <string name="sublime_ads_app_inter">ca-app-pub-8147305324909118/9368185642</string>
     <string name="sublime_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi0p/PbMj/hUiMxbipfls/425AzLk5QYCeww20ehIP9vW+1pIn+JiJRQ/QWMAlfGftFcbFxXX/QFhB/VWd/K9EZJ/T8Wdht8qGzRQFyIKQQyWuoLKy+CisIiwhkdGLq4m302zTherApvotKi0LZRGlTzxXyPb3wLEN7uYORe3xGdr+13XxuIATczCtdSpoufgZJ/eXLt9//zbjNMA4KBtez51KeAVSLPj+RcwoWJYSNzxpGqbwe7gP9+NcLbrWCcBWgbcHTwcHMT6CBWjDO6wMCHKIGnuBL0B0LNOkpnzrBtHLBjm6fmufEIxQSrLJVYnO0TF3fdUQDLiTS9QLfvZhwIDAQAB</string>
 
     <!-- 2.logcat app-->

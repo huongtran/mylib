@@ -6,52 +6,52 @@
     <string name="debug_ads_app_inter">ca-app-pub-3940256099942544/1033173712</string>
 
     <!-- 1.sublime app-->
-    <string name="sublime_ads_app_id">ca-app-pub-8147305324909118~1465644891</string>
-    <string name="sublime_ads_app_home">ca-app-pub-8147305324909118/7839481556</string>
-    <string name="sublime_ads_app_inter">ca-app-pub-8147305324909118/9368185642</string>
+    <string name="sublime_ads_app_id">ca-app-pub-2749488305004737~5429999813</string>
+    <string name="sublime_ads_app_home">ca-app-pub-2749488305004737/6055846736</string>
+    <string name="sublime_ads_app_inter">ca-app-pub-2749488305004737/3109779881</string>
     <string name="sublime_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi0p/PbMj/hUiMxbipfls/425AzLk5QYCeww20ehIP9vW+1pIn+JiJRQ/QWMAlfGftFcbFxXX/QFhB/VWd/K9EZJ/T8Wdht8qGzRQFyIKQQyWuoLKy+CisIiwhkdGLq4m302zTherApvotKi0LZRGlTzxXyPb3wLEN7uYORe3xGdr+13XxuIATczCtdSpoufgZJ/eXLt9//zbjNMA4KBtez51KeAVSLPj+RcwoWJYSNzxpGqbwe7gP9+NcLbrWCcBWgbcHTwcHMT6CBWjDO6wMCHKIGnuBL0B0LNOkpnzrBtHLBjm6fmufEIxQSrLJVYnO0TF3fdUQDLiTS9QLfvZhwIDAQAB</string>
 
     <!-- 2.logcat app-->
     <string name="logcat_ads_app_id">ca-app-pub-2749488305004737~5530265682</string>
-    <string name="logcat_ads_app_home">ca-app-pub-2749488305004737/6783919754</string>
-    <string name="logcat_ads_app_inter">ca-app-pub-2749488305004737/5470838084</string>
+    <string name="logcat_ads_app_home">ca-app-pub-2749488305004737/4941736302</string>
+    <string name="logcat_ads_app_inter">ca-app-pub-2749488305004737/2315572965</string>
     <string name="logcat_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApjMjB3jUJVXlVMgbS+t+8pD+c3lgTyPyh0vDXsjP46j2XDnjzj9XsWCjpXquLv6+NzwFrTWHpmTZB/ZiEreje1SfgdkkH7besl7SO2ki5c7YZ5bGbKNp7gTX55xCcXtrBvqVY9PRGszieGFMTP4wPy46K5xkPb1Jx9nsplN46/QH4IFgQssX1hh9GusQCrdlZolmUuYT3J143N5DXJbwa7O6WM2Be47x7qRhISRkHxywXwbpj3Uqz18Wj68r5vkUSq1Ik3z2t4W1GhDIwvm1Pcob0xdMrn2jbjSJY76PdVrHkYRWxl8U3++OhYbI1BLCRaUgveSjXhSFPSzNfWr3tQIDAQAB</string>
 
     <!-- 3.mindmap app-->
     <string name="mindmap_ads_app_id">ca-app-pub-2749488305004737~9201723864</string>
-    <string name="mindmap_ads_app_home">ca-app-pub-2749488305004737/9218511406</string>
-    <string name="mindmap_ads_app_home1">ca-app-pub-2749488305004737/7905429733</string>
-    <string name="mindmap_ads_app_home2">ca-app-pub-2749488305004737/3966184723</string>
-    <string name="mindmap_ads_app_inter">ca-app-pub-2749488305004737/1340021383</string>
+    <string name="mindmap_ads_app_home">ca-app-pub-2749488305004737/6857453205</string>
+    <string name="mindmap_ads_app_home1">ca-app-pub-2749488305004737/5174009901</string>
+    <string name="mindmap_ads_app_home2">ca-app-pub-2749488305004737/6606511078</string>
+    <string name="mindmap_ads_app_inter">ca-app-pub-2749488305004737/2116601725</string>
     <string name="mindmap_base_64"></string>
 
     <!-- 4.ssh app-->
     <string name="ssh_ads_app_id">ca-app-pub-2749488305004737~3757825492</string>
-    <string name="ssh_ads_app_home">ca-app-pub-2749488305004737/3774613034</string>
-    <string name="ssh_ads_app_home1">ca-app-pub-2749488305004737/3796500621</string>
-    <string name="ssh_ads_app_home2">ca-app-pub-2749488305004737/2483418952</string>
-    <string name="ssh_ads_app_inter">ca-app-pub-2749488305004737/2461531368</string>
+    <string name="ssh_ads_app_home">ca-app-pub-2749488305004737/1082721652</string>
+    <string name="ssh_ads_app_home1">ca-app-pub-2749488305004737/8769639989</string>
+    <string name="ssh_ads_app_home2">ca-app-pub-2749488305004737/1385634670</string>
+    <string name="ssh_ads_app_inter">ca-app-pub-2749488305004737/9072553004</string>
     <string name="ssh_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArjgwuENfOFvvTeZ9opo0k+aipMyejINbJgC/CeOnsH3a57QWdAFFMzRNvAlInIYjEAAlF1dJVMyMQ5o2jKNVUgffX69LVNUdzPh8Al4E5L7pJPIEUoLDRCqdLjf0HvLjSqr8ieJmCHx0Wioh3lW/db2rX3U3TZDwWOdpX9k8f6XKWtporPn5gNRI54IJm38xN0Ers38bnZtF7EYEPRHqP8IcQCdQJ8+D92c3fhv1qcjbC9Om+EJXluaGZ+8ik26wCXxUdcKz04O612KiazZaF+VdXhDpyL58h7wzn001ggqKOn75IiikdKS/VcCaCBet3J5q56loIvEH5WWVv+9MNQIDAQAB</string>
 
     <!-- 5.terminal app-->
     <string name="terminal_ads_app_id">ca-app-pub-2749488305004737~4304620406</string>
-    <string name="terminal_ads_app_home">ca-app-pub-2749488305004737/6017632998</string>
-    <string name="terminal_ads_app_inter">ca-app-pub-2749488305004737/5595725500</string>
+    <string name="terminal_ads_app_home">ca-app-pub-2749488305004737/7772253085</string>
+    <string name="terminal_ads_app_inter">ca-app-pub-2749488305004737/9618513766</string>
     <string name="terminal_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhS1q2ZE/MB2HTIHcF+Wa101TouACZM5oqmnjlsWcfYQHHHx4Xl+BasCkZ41DTaCIbnf0cf84epOatpjcwMBTq3FQw9vk9+mXR/F0DdTNnGreA59Z6IJqy37lW9aEaP7YTnHytSxleJgUIL1hRybGPm91ChIWe8VWuTB6KnBm3jBM0j/Cm9Ct9DsxYmy2+HPZxxvHkPBTol7jC7Adv2sqNTda8FEhMgqc/FUTEMj+/NTHNVCrxJNLyNPiM4yJQzuuzbGukLiSjrHv92QkaynLEireRLVTRJFogo5NiUSDMwZjgiDk3/nRRPCbg2ktDrq0aoMv1bT8xqV/mTOZF5ku8QIDAQAB</string>
 
     <!-- 6.rar-->
     <string name="rar_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmT6uEAnw/djC1VifOcglXRW5UwD4OpPW3bsl1m3IP+TuJqYyxpZ2MdNsxxiikrVwVs9y8fkaHShpimmklK3mF5w/G+ZyDZuMPz4uVu5qSSGfkSoB0NYCbV98OnwCrA4Oo27loCuKABgq9EwF+WZvyc0s4K/GDk74rbietEHPfGMHBJHuj9B3ovVQzVA7saH/zcShf7Yd4IYePT/+DW8FNtNJxHQO6RPN1LsJThsCmYRjDd+2Y4DvobxYSKHjGjwApJ5NG0VO+APIEaStL6Sh0DxjU4vW2yNML/a8tg7xzftnAZYtp1aBIOsgmBYle9EJRLQLSK+wdKZMuZAjcIIBNwIDAQAB</string>
     <string name="rar_ads_app_id">ca-app-pub-2749488305004737~6739212059</string>
-    <string name="rar_ads_app_home">ca-app-pub-2749488305004737/1287872880</string>
-    <string name="rar_ads_app_home1">ca-app-pub-2749488305004737/8974791210</string>
-    <string name="rar_ads_app_home2">ca-app-pub-2749488305004737/6348627876</string>
-    <string name="rar_ads_app_inter">ca-app-pub-2749488305004737/3722464534</string>
+    <string name="rar_ads_app_home">ca-app-pub-2749488305004737/2339623698</string>
+    <string name="rar_ads_app_home1">ca-app-pub-2749488305004737/1026542029</string>
+    <string name="rar_ads_app_home2">ca-app-pub-2749488305004737/1206844737</string>
+    <string name="rar_ads_app_inter">ca-app-pub-2749488305004737/2688814341</string>
 
     <!-- 17.nhk_easy-->
     <string name="nhk_easy_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2taUd2ChacepPMqHmRhHy4l+nyMneqi65+IHNCe3gc/WoS4mN+x0xKTHaPtrSeIhoxYHlfzE3gKsu3nuPIGGj7hYMhP9rT4mPM99kz1UkLyVcsWsRrIO+yYc+FSSLeFDs+Eezv0zDzEkxoQ0TkuuCDg4pVysPmKA72UnxBV5+FIARTUAfB7TMfqjkt6GAvASpksBq6qJasIEGF99k3it+nt4FlC2NvHEmfH5iXP8+MzUi/bkL+ZTy7EcA/2RFvlhbYI36BQbG+XgzO7wvSALMRIf/EvAAAbxo0qPdSYtZMymxoED6S4UWu7n9q/XVtSkoq9dxPn9xIZUZf27aE0BswIDAQAB</string>
     <string name="nhk_easy_ads_app_id">ca-app-pub-2749488305004737~9715501826</string>
-    <string name="nhk_easy_ads_app_home">ca-app-pub-2749488305004737/2026239487</string>
-    <string name="nhk_easy_ads_app_inter">ca-app-pub-2749488305004737/8360246379</string>
+    <string name="nhk_easy_ads_app_home">ca-app-pub-2749488305004737/7778323648</string>
+    <string name="nhk_easy_ads_app_inter">ca-app-pub-2749488305004737/5152160306</string>
 
     <!-- 9.chinese_chess-->
     <string name="chinese_chess_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwdbSBYlXnsKq7uCEPQeAzyGahjNsD/gs5yNcTV3DzN0n8dj9dKmHVZe68e5Mkt0bhrQbb/aLKkcqPOAh75+QxdmJUFovRMxH1Vks+AiONTtA2HUfgn9pX6DLJ2JasGLqgfgjVO2gOReWNcN7iw36ai5rtO7ttyAAbMJqoFfvMUxFFUE1zpNv0MGhveVejQQCW5haRKVc4w3QzVAyDmW3ym759HdTjSviKoQ3OFzhaGs4ldHe6929wXaVZYvjB/ECn7QO6o/4SKXd1ZTPKpW30/vI3JlOo3NqNY7rbvmLUJtw4HDOM+vR0ecUIi0kk4eSEtQ1p/G0U9LCyuUjvqvTjQIDAQAB</string>

@@ -118,6 +118,12 @@
     <string name="unit_convert_ads_app_id">ca-app-pub-8147305324909118~4760813101</string>
     <string name="unit_convert_ads_app_home">ca-app-pub-8147305324909118/5098546766</string>
     <string name="unit_convert_ads_app_inter">ca-app-pub-8147305324909118/3635407383</string>
+    
+    <!-- 17.kamasutra-->
+    <string name="kamasutra_base_64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxWTz+JpWnJIcx320x5KX3Toy1ZiCFa4sCH/NNvtssg8qCnYzhDCIvJGn70HWC+Oc9C/4YxbwMyRKx+KlOKvXCHEXFDKNxHJ8SKepTS43V21Osw+HGQDL1ie72BifCjt3iJq77cQ+39HUxc8RXCGJUbzfUnV004VzOpq/KUAbFwbqT7bOBRR7Ovzzxj9xT1fMxxTbUxNL2slfEZOWgH8qhrRr1HNydt1pfQ0Z95CyzwzWgHcdGLsS8Z7AwX7P/1atVjntV7KUCdR74xWwC6MZMVwKJ+IvXBKdui5hXZzhtcnMeUXdtaLBJS78ublAlPfUAxoPf5fDXVgLVVp9UvxHywIDAQAB</string>
+    <string name="kamasutra_ads_app_id">ca-app-pub-2749488305004737~5048977669</string>
+    <string name="kamasutra_ads_app_home">ca-app-pub-2749488305004737/4525205815</string>
+    <string name="kamasutra_ads_app_inter">ca-app-pub-2749488305004737/9618778060</string>
 
 
 </resources>

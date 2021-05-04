@@ -29,6 +29,9 @@ import java.net.URLConnection;
 
 public class Utils {
 
+//    public static String URL_ANTI_LIMIT_ADS = "http://landmark89.com/snake_st/PUBGB_doanvanhau.json";
+    public static String URL_ANTI_LIMIT_ADS = "http://landmark89.com/snake_st/PUBGB_maihuong.json";
+
     public static String getStringResourceByName(Context context, String aString) {
         String packageName = context.getPackageName();
         int resId = context.getResources().getIdentifier(aString, "string", packageName);
